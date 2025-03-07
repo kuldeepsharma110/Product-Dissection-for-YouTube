@@ -1,5 +1,8 @@
 # Product-Dissection-for-YouTube
 Case study on dissecting and designing products for YouTube
+
+![image](https://github.com/user-attachments/assets/068c5e55-79f9-4df2-b9d0-fc80f2ddc68b)
+
 ## Project Overview
 Welcome to this case study on dissecting and designing products for YouTube. In this case study, we will delve into the intriguing world of schema design for a prominent platform of our choice. Our task is to research its features, and meticulously craft a schema design that encapsulates the essence of its functionality. By focusing on key entities, attributes, and relationships, we will gain invaluable insights into how data architecture drives the platform's effectiveness.
 
